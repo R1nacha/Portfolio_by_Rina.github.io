@@ -761,7 +761,7 @@ footer{
     .services .services_block div{
         width: 70px;
         height: 70px;
-        font-size: 80px;
+        font-size: 70px;
     }
 
     .my_project {
@@ -1000,11 +1000,12 @@ footer{
         position: absolute;
         top: -30px;
         right: -17px;
+        display: none;
     }
     .services .services_block div{
         width: 70px;
         height: 70px;
-        font-size: 80px;
+        font-size: 70px;
     }
       .services_block {
         width: 48%;
