@@ -993,6 +993,7 @@ footer{
         position: absolute;
         top: 1%;
         left: 30%;
+        display: none;
       }
       .services .services_block .zvezda{
         width: 170px;
@@ -1000,7 +1001,6 @@ footer{
         position: absolute;
         top: -30px;
         right: -17px;
-        display: none;
     }
     .services .services_block div{
         width: 70px;
